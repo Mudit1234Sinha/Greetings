@@ -1,2 +1,5 @@
 # Greetings
-In this program your system greets you by telling current date, time and year and even you can search anything, and it displays as well as speaks your Search result
+
+This is like a basic Jarvis, it greets you by telliing current date and time, and you can search anything it will display the result on the terminal as well as it speaks your search result
+
+I have made this using Pyttsx3, and wikipedia module of python
